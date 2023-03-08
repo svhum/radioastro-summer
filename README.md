@@ -6,4 +6,4 @@ Are you interested in combining interests in building hardware with those in ele
 
 To apply you must be eligible for an [NSERC Undergraduate Student Research Award](https://www.ece.utoronto.ca/undergraduate-students/undergraduate-research-awards/nserc-undergraduate-student-research-awards-usras/), which requires you to to be a Canadian citizen (or PR), and have a CGPA of at least 3. 
 
-Interested students should contact [sean.hum@utoronto.ca](mailto://sean.hum@utoronto.ca) with a copy of their CV and unofficial transcripts. Selected applicants will be asked to apply for an NSERC USRA, which is due March 17, 2023 in the Undergraduate Office, using the link provided above.
+Interested students should contact [sean.hum@utoronto.ca](mailto://sean.hum@utoronto.ca) with a copy of their CV and unofficial transcripts by **Friday, March 10**. Selected applicants will be asked to apply for an NSERC USRA, which is due March 17, 2023 in the Undergraduate Office, using the link provided above.
